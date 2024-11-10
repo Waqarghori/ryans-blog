@@ -1,0 +1,108 @@
+* {
+    margin: 0%;
+}
+Body {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, "Noto Sans", "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+    margin: 0;
+    color: #212121;
+}
+
+header {
+margin: 0;
+background-color: #f5f7ff;
+height: 230px;
+border-bottom: 1px solid gray;
+}
+.h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 48px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+.hp {
+text-align: center;
+}
+
+ul {
+
+}
+.nav-bar {
+    display: inline;
+    padding: 8px;
+}
+a {
+    color: #0d47a1;
+    text-decoration: underline;
+}
+.a1 {
+    border: 1px solid gray;
+    padding: 7px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: black;
+}
+.a1:hover {
+    color: #1266e2;
+    border: 1px solid #1266e2 ;
+}
+.body {
+    width: 45%;
+    margin: 0px auto;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+h1 {
+    font-size: 48px;
+    padding: 45px 30px 30px 0px;
+    text-align: left;
+}
+P {
+    font-size: 18PX;
+    margin-bottom: 30PX;
+    text-align: justify;
+
+}
+.footer {
+    width: 50%;
+    margin: 0px auto;
+}
+.pf {
+    text-align: center;
+    font-size: 13px;
+    padding: 50px;
+    color: gray;
+}
+.sch {
+    margin: 0px;
+    text-align: center;
+}
+.sch-input {
+    width: 250px;
+    height: 45px;
+}
+button {
+    width: 90px;
+    height: 50px;
+    color: white;
+    background-color: #0d47a1;
+    border: 0px;
+    padding: 10px;
+    border-radius: 5px;
+}
+button:hover {
+    color: white;
+    background-color: #1266e2;
+}
+.bodyg {
+    width: 45%;
+    margin: 0px auto;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gray;
+    text-align: left;
+}
+
+ul > li {
+    padding: 5px;
+}
